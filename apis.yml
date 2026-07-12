@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://mpds.io
 common:
+  - type: DomainSecurity
+    url: security/materials-platform-for-data-science-domain-security.yml
   - type: Website
     url: https://mpds.io
   - type: PublicAPIsListing
