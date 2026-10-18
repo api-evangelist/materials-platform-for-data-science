@@ -40,7 +40,8 @@ apis:
   - name: Materials Platform for Data Science
     description: "Curated experimental data for materials science"
     humanURL: https://mpds.io
-    tags:
+    tags: []
+    tags_raw:
       - Science And Math
     properties:
       - type: Documentation
